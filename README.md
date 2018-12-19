@@ -1,5 +1,4 @@
-# -
-
+# -实践的项目整理
 
 # planet_understanding_the_amazon_from_space.ipynb  
 Kaggle亚马逊丛林卫星图识别项目，识别天气和地理类型。Notebook编辑，使用tensorflow框架，CNN网络，corlab平台（GPU）训练。  
